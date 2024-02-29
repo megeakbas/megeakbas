@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @megeakbas
 - 👀 I’m interested in Frontend web development.
-- 🌱 I’m currently learning Vue js.
+- 🌱 I’m currently learning React Js and React Native.
 - 📫 How to reach me akbashmert@gmail.com
 
 <!---
